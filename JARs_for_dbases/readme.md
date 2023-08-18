@@ -26,6 +26,7 @@
 * mysql-connector-java-5.1.49.jar
 * mysql-connector-java-8.0.30.jar
 * nuodb-jdbc-24.0.0.jar
+* ojdbc8-12.2.0.1.jar ([source](https://repo1.maven.org/maven2/com/oracle/database/jdbc/ojdbc8/12.2.0.1/))
 * ojdbc8-21.9.0.0.jar
 * orai18n-21.9.0.0.jar
 * postgresql-42.6.0.jar
