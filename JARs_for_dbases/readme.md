@@ -35,3 +35,9 @@
 * vertica-jdbc-12.0.3-0.jar
 * xdb6-18.3.0.0.jar
 * xmlparserv2-21.9.0.0.jar
+
+---
+
+maybe used with :  
+* (by 2003) DbVisualizer - https://www.dbvis.com/
+* (by 2010) https://dbeaver.io/ - https://github.com/dbeaver/dbeaver
