@@ -2,6 +2,7 @@
 * aws-java-sdk-redshift-1.12.493.jar
 * commons-codec-1.15.jar
 * commons-logging-1.1.3.jar
+* /org.relique.jdbc.csv.CsvDriver/ aka csvjdbc-1.0.40.jar ([source](https://sourceforge.net/projects/csvjdbc/files/CsvJdbc/))
 * derby-10.16.1.1.jar
 * derbyclient-10.16.1.1.jar
 * derbyshared-10.16.1.1.jar
